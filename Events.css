@@ -1,11 +1,18 @@
+body{
+    font-family: serif;
+   
+}
+
 #title{
-    padding: 0.5rem 10rem 7rem;
+    padding: 2rem 10rem 5rem 10rem;
    
     
    }
    
 
    .navbar-brand{
+    
+     height: 2rem;
     height: 2rem;
    }
    
@@ -22,23 +29,24 @@
    }
 
    .titleParagraph{
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem 1.5rem 0;
        line-height: 1.5;
-       font-size: 1.5rem;
-       font-family: serif;
+       font-size: 1.4rem;
+      
    }
    
    .myParagraph{
        text-align: center;
        line-height: 1.5;
-       font-size: 1.5rem;
-       font-family: serif;
+       font-size: 1.1rem;
+       
 
 
    }
 
    .btn{
     margin-left: 10rem;
+    font-family: Sans-serif;
    }
 
    .title-image{
@@ -46,19 +54,52 @@
    }
 
    #features{
-    padding:2rem  7rem;
+    padding: 3rem 10rem 5rem 10rem;
 }
+
+.myheading{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.featuresParagraph{
+
+    text-align: center;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    padding-bottom: 30px;
+    
+}
+
 
 .features-image{
     width: 100%;
+    
 }
+
+.image-short{
+    height: 44%;
+}
+
+.image-size{
+    height: 41%;
+}
+
+.image-medium{
+    height: 39%;
+}
+
 
 h3{
     font-weight: bold;
     text-align: center;
     line-height: 1.5;
     font-size: 1.5rem;
-    font-family: serif;  
+      
+}
+
+.mybtn{
+    margin-left: 45%;
 }
 
 #footer{
@@ -69,4 +110,9 @@ h3{
 .footer-icon{
 padding: 15px;
 
+}
+
+.copyright{
+    font-size: 11px;
+    padding: 4px;
 }
