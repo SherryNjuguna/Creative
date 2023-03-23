@@ -35,7 +35,7 @@ p {
 }
 
 button {
-  background-color: rgb(145, 42, 42);
+  background-color: steelblue;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -48,7 +48,7 @@ button {
   align-items: center;
   cursor: pointer;
   border-radius: 10px;
-  margin: -15rem auto;
+  margin: -10rem auto;
 }
 
 button:hover {
